@@ -7,5 +7,9 @@ pkg install wget
 pkg install php
 pkg install perl
 pkg install ruby
+pkg install python3
+pkg install cmatrix && cmatrix
 apt update
 apt upgrade
+
+
